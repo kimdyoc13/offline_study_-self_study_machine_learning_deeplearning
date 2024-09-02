@@ -1,2 +1,18 @@
-# offline_study_-self_study_machine_learning_deeplearning
+# 혼자 공부하는 머신러닝 + 딥러닝
 
+----
+
+## 스터디 도서
+![image](https://github.com/user-attachments/assets/7bcfacef-812d-4888-b802-663045e2f853)
+
+## 스터디 기간
+- 2023.01 ~ 2023.03
+- 주1 챕터씩 진행
+- 어려운 챔터는 2부분씩 진행
+
+
+## 스터디원
+- 김동영
+- 오민지
+- 전영은
+- 김가은 
